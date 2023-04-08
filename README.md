@@ -1,9 +1,3 @@
-THIS PROJECT IS NOW ARCHIVED AND NO LONGER MAINTAINED.
+This is a WIP of what will (hopefully) become the Indiana FGC Website. I don't like web development much, so if anyone in the community wants to completely revamp this, that's fine by me!
 
-# Ohio FGC Website
-
-The Ohio Fighting Game Community is pretty large and separated.  The amount of times I run into new players and they say they couldn't find any information about the scene is way more than it should be.  So this website is an attempt to help consolidate information to make it easier for people to find the events and players near them.
-
-If you think something should be added to the site, get in contact with me here or on [twitter](https://twitter.com/codecory).
-
-You can view the site [here](https://ohiofgc.com)
+Currently, in the process of changing information pertinent to our scene & setting up hosting.
